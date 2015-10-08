@@ -1,6 +1,10 @@
 
-#### GameJam2015_07
-2015年 7月末に開催されたゲームジャム作品
+#### 概要
+2015年 7月末に開催されたゲームジャム作品です。
+
+自作したフレームワーク
+[GameEngine2D](https://github.com/tom10987/VSProjects/tree/master/GameEngine2D)
+を使用しています。
 
 ---
 **使用した開発環境**  
