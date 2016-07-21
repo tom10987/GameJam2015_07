@@ -1,13 +1,12 @@
 
-#### 概要
+## 概要
+
 2015年 7月末に開催されたゲームジャム作品です。  
-自作したフレームワーク（ 
-[GameEngine2D](https://github.com/tom10987/VSProjects/tree/master/GameEngine2D)
- ）を使用しています。
+自作したフレームワークを使用しました。
 
 ---
-**使用した開発環境**  
+**使用した開発環境**
+
 `Visual Studio Express 2013`  
 `Visual Studio Community 2013`  
 `Visual Studio Community 2015`
-
